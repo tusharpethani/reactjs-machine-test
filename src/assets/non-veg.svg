@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 35" width="20" height="20">
+	<title>logo-svg</title>
+	<style>
+		.s0 { fill: #ed1c24 } 
+	</style>
+	<g id="Layer">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m35 35h-35.1v-35h35.1zm-33.5-1.6h31.9v-31.8h-31.9z"/>
+			<g id="Layer">
+				<path id="Layer" class="s0" d="m27.4 17.5c0 5.5-4.4 9.9-9.9 9.9-5.5 0-9.9-4.4-9.9-9.9 0-5.5 4.4-9.9 9.9-9.9 5.4 0 9.9 4.4 9.9 9.9z"/>
+			</g>
+		</g>
+	</g>
+</svg>
